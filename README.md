@@ -1,6 +1,6 @@
 # Wireless Bitmap
 
-[![GoDoc](https://godoc.org/github.com/bake/wbmp?status.svg)](https://godoc.org/github.com/bake/wbmp)
+[![GoDoc](https://godoc.org/github.com/bake/wbmp?status.svg)](https://pkg.go.dev/github.com/bake/wbmp)
 [![Go Report Card](https://goreportcard.com/badge/github.com/bake/wbmp)](https://goreportcard.com/report/github.com/bake/wbmp)
 
 Package wbmp implements decoding for Wireless Bitmap images.
